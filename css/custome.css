@@ -1,0 +1,59 @@
+body {
+    background-color: #d7d5d5;
+}
+
+.jumbotron{
+	background-image: url('../img/3.jpg');
+	background-size: cover;
+	margin-bottom: 0px;
+	padding: 4rem 6rem;
+	border-radius: 0;
+	border-bottom: 1px dashed white;
+	
+}
+
+.navbar-nav .nav-link {
+	color: white;
+	font-weight: bold;
+}
+
+.nav .nav-item .nav-link{
+font-weight: bold;
+}
+
+
+
+
+.navbar{
+	
+	margin-top: -71px;
+}
+
+.section-title{
+    text-align: center;
+}
+
+.row {
+	margin-right: 0px;
+}
+
+.section-title > p{
+     color:#fff;
+    display: inline-block;
+    line-height: 19px;
+    margin-bottom: 7px;
+    position: relative;
+
+}
+
+.news{
+	background-color: #293BA8;
+	border-bottom: 1px dashed white;
+}
+
+.img-fluid{
+	    height: 255px;
+    width: 312px;
+    border-radius: 4%;
+}
+
